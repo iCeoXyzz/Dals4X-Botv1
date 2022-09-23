@@ -4,10 +4,10 @@
 
 </p>
 <p align="center">
-<a href="#"><img title="ALPHABOT MULTI DEVICE" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Dals4X-MD" src="https://img.shields.io/badge/ALPHABOT MULTI DEVICE-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/rashidsiregar28/chikabot"><img title="Author" src="https://img.shields.io/badge/Author-rashidsiregar28-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/iCeoXyzz/iceobot"><img title="Author" src="https://img.shields.io/badge/Author-rashidsiregar28-red.svg?style=for-the-badge&logo=github"></a>
 <a href="https://github.com/zeeoneofc/Alphabot-Md"><img title="Recode" src="https://img.shields.io/badge/Recode-ZeeoneOfc-red.svg?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
@@ -68,7 +68,7 @@ node main
 ## For VPS
 ```bash
 apt install nodejs git ffmpeg
-git clone https://github.com/zeeoneofc/Alphabot-Md.git
+git clone https://github.com/iCeoXyzz/Dals4X-Bot-v1.0
 cd Alphabot-Md
 npm install
 node main
@@ -104,7 +104,7 @@ Jika berhasil, akan memberikanmu pesan seperti: `SUCCESS: specified value was sa
 - [Gopay]()
 
 # Official Group
-- [Alphabot 1](https://chat.whatsapp.com/EQZxq5fYkHDHJA04yOldoW)
+- [ Dals4X-MDv1.0 ](https://chat.whatsapp.com/EQZxq5fYkHDHJA04yOldoW)
 
 
 
